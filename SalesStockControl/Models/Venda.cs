@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SQLite;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -16,9 +17,12 @@ namespace SalesStockControl.Models
 
         public Guid GuidId { get { return _GuidId; } }
 
+        [PrimaryKey, AutoIncrement] //data annotations for SQLite
+        public int AutoId { get; set; }
         public Cliente Cliente
         {
-        
+            get { return _cliente; }
+            set { _cliente = value; }
         }
 
         public DateTime Date

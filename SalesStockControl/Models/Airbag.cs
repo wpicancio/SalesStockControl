@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static SalesStockControl.Models.Airbag;
 
 namespace SalesStockControl.Models
 {
@@ -23,14 +24,35 @@ namespace SalesStockControl.Models
             set { _tipo = value; }
         }
 
-        public Airbag() : base()
+        public Airbag(TipoAirBag tipo) : base()
         {
-            Tipo = TipoAirBag.volante; // padrão ao acessar o tipo de airbag
+            Tipo = tipo;
+
+            // Preço fixo com base no tipo
+            switch (tipo)
+            {
+                case TipoAirBag.volante:
+                    Preco = 200.00m;
+                    break;
+                case TipoAirBag.cortina:
+                    Preco = 100.00m;
+                    break;
+                case TipoAirBag.banco:  
+                    Preco = 70.00m;
+                    break;
+                case TipoAirBag.passageiro:
+                    Preco = 120.00m;
+                    break;
+                case TipoAirBag.joelho:
+                    Preco = 80.00m;
+                    break;
+            }
         }
         public override string Get()
         {
             string saida = base.Get();
             saida += $"Tipo do AirBag:  {Tipo}\n";
+            saida += $"Preço:  {Preco} \n";
             return saida;
         }
     }

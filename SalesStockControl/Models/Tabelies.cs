@@ -23,14 +23,16 @@ namespace SalesStockControl.Models
                 }
             }
         }
-        public Tabelies()
+        public Tabelies() : base()
         {
             Cor = "";
+            Preco = 900.00m; // Preço fixo
         }
         public override string Get()
         {
             string saida = base.Get();
             saida += $"Cor:  {Cor} \n";
+            saida += $"Preço:  {Preco} \n";
             return saida;
         }
     }
