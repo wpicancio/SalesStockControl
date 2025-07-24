@@ -3,32 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\welin\\OneDrive\\\u00C1rea de Trabalho\\ISTEC\\2\u00BASemetre\\Programa\u00E7\u00E3o II\\SalesStockControl\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEE5D6F7-A990-47CE-B002-7DD89A54F693}|SalesStockControl\\SalesStockControl.csproj|c:\\users\\welin\\onedrive\\\u00E1rea de trabalho\\istec\\2\u00BAsemetre\\programa\u00E7\u00E3o ii\\salesstockcontrol\\salesstockcontrol\\models\\tabelies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEE5D6F7-A990-47CE-B002-7DD89A54F693}|SalesStockControl\\SalesStockControl.csproj|solutionrelative:salesstockcontrol\\models\\tabelies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEE5D6F7-A990-47CE-B002-7DD89A54F693}|SalesStockControl\\SalesStockControl.csproj|c:\\users\\welin\\onedrive\\\u00E1rea de trabalho\\istec\\2\u00BAsemetre\\programa\u00E7\u00E3o ii\\salesstockcontrol\\salesstockcontrol\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEE5D6F7-A990-47CE-B002-7DD89A54F693}|SalesStockControl\\SalesStockControl.csproj|solutionrelative:salesstockcontrol\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEE5D6F7-A990-47CE-B002-7DD89A54F693}|SalesStockControl\\SalesStockControl.csproj|c:\\users\\welin\\onedrive\\\u00E1rea de trabalho\\istec\\2\u00BAsemetre\\programa\u00E7\u00E3o ii\\salesstockcontrol\\salesstockcontrol\\models\\cintos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEE5D6F7-A990-47CE-B002-7DD89A54F693}|SalesStockControl\\SalesStockControl.csproj|solutionrelative:salesstockcontrol\\models\\cintos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEE5D6F7-A990-47CE-B002-7DD89A54F693}|SalesStockControl\\SalesStockControl.csproj|c:\\users\\welin\\onedrive\\\u00E1rea de trabalho\\istec\\2\u00BAsemetre\\programa\u00E7\u00E3o ii\\salesstockcontrol\\salesstockcontrol\\models\\airbag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEE5D6F7-A990-47CE-B002-7DD89A54F693}|SalesStockControl\\SalesStockControl.csproj|solutionrelative:salesstockcontrol\\models\\airbag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEE5D6F7-A990-47CE-B002-7DD89A54F693}|SalesStockControl\\SalesStockControl.csproj|c:\\users\\welin\\onedrive\\\u00E1rea de trabalho\\istec\\2\u00BAsemetre\\programa\u00E7\u00E3o ii\\salesstockcontrol\\salesstockcontrol\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEE5D6F7-A990-47CE-B002-7DD89A54F693}|SalesStockControl\\SalesStockControl.csproj|solutionrelative:salesstockcontrol\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AEE5D6F7-A990-47CE-B002-7DD89A54F693}|SalesStockControl\\SalesStockControl.csproj|c:\\users\\welin\\onedrive\\\u00E1rea de trabalho\\istec\\2\u00BAsemetre\\programa\u00E7\u00E3o ii\\salesstockcontrol\\salesstockcontrol\\models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEE5D6F7-A990-47CE-B002-7DD89A54F693}|SalesStockControl\\SalesStockControl.csproj|solutionrelative:salesstockcontrol\\models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEE5D6F7-A990-47CE-B002-7DD89A54F693}|SalesStockControl\\SalesStockControl.csproj|c:\\users\\welin\\onedrive\\\u00E1rea de trabalho\\istec\\2\u00BAsemetre\\programa\u00E7\u00E3o ii\\salesstockcontrol\\salesstockcontrol\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEE5D6F7-A990-47CE-B002-7DD89A54F693}|SalesStockControl\\SalesStockControl.csproj|solutionrelative:salesstockcontrol\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AEE5D6F7-A990-47CE-B002-7DD89A54F693}|SalesStockControl\\SalesStockControl.csproj|c:\\users\\welin\\onedrive\\\u00E1rea de trabalho\\istec\\2\u00BAsemetre\\programa\u00E7\u00E3o ii\\salesstockcontrol\\salesstockcontrol\\models\\cintos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE5D6F7-A990-47CE-B002-7DD89A54F693}|SalesStockControl\\SalesStockControl.csproj|solutionrelative:salesstockcontrol\\models\\cintos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AEE5D6F7-A990-47CE-B002-7DD89A54F693}|SalesStockControl\\SalesStockControl.csproj|c:\\users\\welin\\onedrive\\\u00E1rea de trabalho\\istec\\2\u00BAsemetre\\programa\u00E7\u00E3o ii\\salesstockcontrol\\salesstockcontrol\\models\\produtovenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,6 +21,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{AEE5D6F7-A990-47CE-B002-7DD89A54F693}|SalesStockControl\\SalesStockControl.csproj|c:\\users\\welin\\onedrive\\\u00E1rea de trabalho\\istec\\2\u00BAsemetre\\programa\u00E7\u00E3o ii\\salesstockcontrol\\salesstockcontrol\\views\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEE5D6F7-A990-47CE-B002-7DD89A54F693}|SalesStockControl\\SalesStockControl.csproj|solutionrelative:salesstockcontrol\\views\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE5D6F7-A990-47CE-B002-7DD89A54F693}|SalesStockControl\\SalesStockControl.csproj|c:\\users\\welin\\onedrive\\\u00E1rea de trabalho\\istec\\2\u00BAsemetre\\programa\u00E7\u00E3o ii\\salesstockcontrol\\salesstockcontrol\\models\\tabelies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE5D6F7-A990-47CE-B002-7DD89A54F693}|SalesStockControl\\SalesStockControl.csproj|solutionrelative:salesstockcontrol\\models\\tabelies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE5D6F7-A990-47CE-B002-7DD89A54F693}|SalesStockControl\\SalesStockControl.csproj|c:\\users\\welin\\onedrive\\\u00E1rea de trabalho\\istec\\2\u00BAsemetre\\programa\u00E7\u00E3o ii\\salesstockcontrol\\salesstockcontrol\\models\\airbag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE5D6F7-A990-47CE-B002-7DD89A54F693}|SalesStockControl\\SalesStockControl.csproj|solutionrelative:salesstockcontrol\\models\\airbag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE5D6F7-A990-47CE-B002-7DD89A54F693}|SalesStockControl\\SalesStockControl.csproj|c:\\users\\welin\\onedrive\\\u00E1rea de trabalho\\istec\\2\u00BAsemetre\\programa\u00E7\u00E3o ii\\salesstockcontrol\\salesstockcontrol\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE5D6F7-A990-47CE-B002-7DD89A54F693}|SalesStockControl\\SalesStockControl.csproj|solutionrelative:salesstockcontrol\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE5D6F7-A990-47CE-B002-7DD89A54F693}|SalesStockControl\\SalesStockControl.csproj|c:\\users\\welin\\onedrive\\\u00E1rea de trabalho\\istec\\2\u00BAsemetre\\programa\u00E7\u00E3o ii\\salesstockcontrol\\salesstockcontrol\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE5D6F7-A990-47CE-B002-7DD89A54F693}|SalesStockControl\\SalesStockControl.csproj|solutionrelative:salesstockcontrol\\models\\contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE5D6F7-A990-47CE-B002-7DD89A54F693}|SalesStockControl\\SalesStockControl.csproj|c:\\users\\welin\\onedrive\\\u00E1rea de trabalho\\istec\\2\u00BAsemetre\\programa\u00E7\u00E3o ii\\salesstockcontrol\\salesstockcontrol\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE5D6F7-A990-47CE-B002-7DD89A54F693}|SalesStockControl\\SalesStockControl.csproj|solutionrelative:salesstockcontrol\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AEE5D6F7-A990-47CE-B002-7DD89A54F693}|SalesStockControl\\SalesStockControl.csproj|c:\\users\\welin\\onedrive\\\u00E1rea de trabalho\\istec\\2\u00BAsemetre\\programa\u00E7\u00E3o ii\\salesstockcontrol\\salesstockcontrol\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,43 +58,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Contacto.cs",
-              "DocumentMoniker": "C:\\Users\\welin\\OneDrive\\\u00C1rea de Trabalho\\ISTEC\\2\u00BASemetre\\Programa\u00E7\u00E3o II\\SalesStockControl\\SalesStockControl\\Models\\Contacto.cs",
-              "RelativeDocumentMoniker": "SalesStockControl\\Models\\Contacto.cs",
-              "ToolTip": "C:\\Users\\welin\\OneDrive\\\u00C1rea de Trabalho\\ISTEC\\2\u00BASemetre\\Programa\u00E7\u00E3o II\\SalesStockControl\\SalesStockControl\\Models\\Contacto.cs",
-              "RelativeToolTip": "SalesStockControl\\Models\\Contacto.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwFMAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ProdutoVenda.cs",
+              "DocumentMoniker": "C:\\Users\\welin\\OneDrive\\\u00C1rea de Trabalho\\ISTEC\\2\u00BASemetre\\Programa\u00E7\u00E3o II\\SalesStockControl\\SalesStockControl\\Models\\ProdutoVenda.cs",
+              "RelativeDocumentMoniker": "SalesStockControl\\Models\\ProdutoVenda.cs",
+              "ToolTip": "C:\\Users\\welin\\OneDrive\\\u00C1rea de Trabalho\\ISTEC\\2\u00BASemetre\\Programa\u00E7\u00E3o II\\SalesStockControl\\SalesStockControl\\Models\\ProdutoVenda.cs",
+              "RelativeToolTip": "SalesStockControl\\Models\\ProdutoVenda.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T16:26:50.716Z",
+              "WhenOpened": "2025-07-23T07:03:28.422Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\welin\\OneDrive\\\u00C1rea de Trabalho\\ISTEC\\2\u00BASemetre\\Programa\u00E7\u00E3o II\\SalesStockControl\\SalesStockControl\\Models\\Cliente.cs",
-              "RelativeDocumentMoniker": "SalesStockControl\\Models\\Cliente.cs",
-              "ToolTip": "C:\\Users\\welin\\OneDrive\\\u00C1rea de Trabalho\\ISTEC\\2\u00BASemetre\\Programa\u00E7\u00E3o II\\SalesStockControl\\SalesStockControl\\Models\\Cliente.cs",
-              "RelativeToolTip": "SalesStockControl\\Models\\Cliente.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAUwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T16:04:21.303Z",
+              "DocumentIndex": 3,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "C:\\Users\\welin\\OneDrive\\\u00C1rea de Trabalho\\ISTEC\\2\u00BASemetre\\Programa\u00E7\u00E3o II\\SalesStockControl\\SalesStockControl\\Views\\Page1.xaml",
+              "RelativeDocumentMoniker": "SalesStockControl\\Views\\Page1.xaml",
+              "ToolTip": "C:\\Users\\welin\\OneDrive\\\u00C1rea de Trabalho\\ISTEC\\2\u00BASemetre\\Programa\u00E7\u00E3o II\\SalesStockControl\\SalesStockControl\\Views\\Page1.xaml",
+              "RelativeToolTip": "SalesStockControl\\Views\\Page1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-22T16:36:52.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "Page1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\welin\\OneDrive\\\u00C1rea de Trabalho\\ISTEC\\2\u00BASemetre\\Programa\u00E7\u00E3o II\\SalesStockControl\\SalesStockControl\\Views\\Page1.xaml.cs",
+              "RelativeDocumentMoniker": "SalesStockControl\\Views\\Page1.xaml.cs",
+              "ToolTip": "C:\\Users\\welin\\OneDrive\\\u00C1rea de Trabalho\\ISTEC\\2\u00BASemetre\\Programa\u00E7\u00E3o II\\SalesStockControl\\SalesStockControl\\Views\\Page1.xaml.cs",
+              "RelativeToolTip": "SalesStockControl\\Views\\Page1.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvzgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T17:00:54.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Venda.cs",
               "DocumentMoniker": "C:\\Users\\welin\\OneDrive\\\u00C1rea de Trabalho\\ISTEC\\2\u00BASemetre\\Programa\u00E7\u00E3o II\\SalesStockControl\\SalesStockControl\\Models\\Venda.cs",
               "RelativeDocumentMoniker": "SalesStockControl\\Models\\Venda.cs",
               "ToolTip": "C:\\Users\\welin\\OneDrive\\\u00C1rea de Trabalho\\ISTEC\\2\u00BASemetre\\Programa\u00E7\u00E3o II\\SalesStockControl\\SalesStockControl\\Models\\Venda.cs",
               "RelativeToolTip": "SalesStockControl\\Models\\Venda.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAADwv0kAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T14:59:49.327Z",
               "EditorCaption": ""
@@ -102,57 +114,70 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ProdutoVenda.cs",
-              "DocumentMoniker": "C:\\Users\\welin\\OneDrive\\\u00C1rea de Trabalho\\ISTEC\\2\u00BASemetre\\Programa\u00E7\u00E3o II\\SalesStockControl\\SalesStockControl\\Models\\ProdutoVenda.cs",
-              "RelativeDocumentMoniker": "SalesStockControl\\Models\\ProdutoVenda.cs",
-              "ToolTip": "C:\\Users\\welin\\OneDrive\\\u00C1rea de Trabalho\\ISTEC\\2\u00BASemetre\\Programa\u00E7\u00E3o II\\SalesStockControl\\SalesStockControl\\Models\\ProdutoVenda.cs",
-              "RelativeToolTip": "SalesStockControl\\Models\\ProdutoVenda.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwDQAAAAdAAAAAAAAAA==",
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\welin\\OneDrive\\\u00C1rea de Trabalho\\ISTEC\\2\u00BASemetre\\Programa\u00E7\u00E3o II\\SalesStockControl\\SalesStockControl\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "SalesStockControl\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\welin\\OneDrive\\\u00C1rea de Trabalho\\ISTEC\\2\u00BASemetre\\Programa\u00E7\u00E3o II\\SalesStockControl\\SalesStockControl\\Models\\Cliente.cs",
+              "RelativeToolTip": "SalesStockControl\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T07:03:28.422Z"
+              "WhenOpened": "2025-07-23T16:04:21.303Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Airbag.cs",
               "DocumentMoniker": "C:\\Users\\welin\\OneDrive\\\u00C1rea de Trabalho\\ISTEC\\2\u00BASemetre\\Programa\u00E7\u00E3o II\\SalesStockControl\\SalesStockControl\\Models\\Airbag.cs",
               "RelativeDocumentMoniker": "SalesStockControl\\Models\\Airbag.cs",
               "ToolTip": "C:\\Users\\welin\\OneDrive\\\u00C1rea de Trabalho\\ISTEC\\2\u00BASemetre\\Programa\u00E7\u00E3o II\\SalesStockControl\\SalesStockControl\\Models\\Airbag.cs",
               "RelativeToolTip": "SalesStockControl\\Models\\Airbag.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T06:54:09.655Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Tabelies.cs",
-              "DocumentMoniker": "C:\\Users\\welin\\OneDrive\\\u00C1rea de Trabalho\\ISTEC\\2\u00BASemetre\\Programa\u00E7\u00E3o II\\SalesStockControl\\SalesStockControl\\Models\\Tabelies.cs",
-              "RelativeDocumentMoniker": "SalesStockControl\\Models\\Tabelies.cs",
-              "ToolTip": "C:\\Users\\welin\\OneDrive\\\u00C1rea de Trabalho\\ISTEC\\2\u00BASemetre\\Programa\u00E7\u00E3o II\\SalesStockControl\\SalesStockControl\\Models\\Tabelies.cs",
-              "RelativeToolTip": "SalesStockControl\\Models\\Tabelies.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T06:44:29.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Cintos.cs",
               "DocumentMoniker": "C:\\Users\\welin\\OneDrive\\\u00C1rea de Trabalho\\ISTEC\\2\u00BASemetre\\Programa\u00E7\u00E3o II\\SalesStockControl\\SalesStockControl\\Models\\Cintos.cs",
               "RelativeDocumentMoniker": "SalesStockControl\\Models\\Cintos.cs",
               "ToolTip": "C:\\Users\\welin\\OneDrive\\\u00C1rea de Trabalho\\ISTEC\\2\u00BASemetre\\Programa\u00E7\u00E3o II\\SalesStockControl\\SalesStockControl\\Models\\Cintos.cs",
               "RelativeToolTip": "SalesStockControl\\Models\\Cintos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwA4AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T06:42:16.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
+              "Title": "Contacto.cs",
+              "DocumentMoniker": "C:\\Users\\welin\\OneDrive\\\u00C1rea de Trabalho\\ISTEC\\2\u00BASemetre\\Programa\u00E7\u00E3o II\\SalesStockControl\\SalesStockControl\\Models\\Contacto.cs",
+              "RelativeDocumentMoniker": "SalesStockControl\\Models\\Contacto.cs",
+              "ToolTip": "C:\\Users\\welin\\OneDrive\\\u00C1rea de Trabalho\\ISTEC\\2\u00BASemetre\\Programa\u00E7\u00E3o II\\SalesStockControl\\SalesStockControl\\Models\\Contacto.cs",
+              "RelativeToolTip": "SalesStockControl\\Models\\Contacto.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwFMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T16:26:50.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tabelies.cs",
+              "DocumentMoniker": "C:\\Users\\welin\\OneDrive\\\u00C1rea de Trabalho\\ISTEC\\2\u00BASemetre\\Programa\u00E7\u00E3o II\\SalesStockControl\\SalesStockControl\\Models\\Tabelies.cs",
+              "RelativeDocumentMoniker": "SalesStockControl\\Models\\Tabelies.cs",
+              "ToolTip": "C:\\Users\\welin\\OneDrive\\\u00C1rea de Trabalho\\ISTEC\\2\u00BASemetre\\Programa\u00E7\u00E3o II\\SalesStockControl\\SalesStockControl\\Models\\Tabelies.cs",
+              "RelativeToolTip": "SalesStockControl\\Models\\Tabelies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:44:29.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\welin\\OneDrive\\\u00C1rea de Trabalho\\ISTEC\\2\u00BASemetre\\Programa\u00E7\u00E3o II\\SalesStockControl\\SalesStockControl\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "SalesStockControl\\Models\\Produto.cs",
@@ -160,31 +185,7 @@
               "RelativeToolTip": "SalesStockControl\\Models\\Produto.cs",
               "ViewState": "AgIAAE0AAAAAAAAAAAAswFYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T06:35:58.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Page1.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\welin\\OneDrive\\\u00C1rea de Trabalho\\ISTEC\\2\u00BASemetre\\Programa\u00E7\u00E3o II\\SalesStockControl\\SalesStockControl\\Views\\Page1.xaml.cs",
-              "RelativeDocumentMoniker": "SalesStockControl\\Views\\Page1.xaml.cs",
-              "ToolTip": "C:\\Users\\welin\\OneDrive\\\u00C1rea de Trabalho\\ISTEC\\2\u00BASemetre\\Programa\u00E7\u00E3o II\\SalesStockControl\\SalesStockControl\\Views\\Page1.xaml.cs",
-              "RelativeToolTip": "SalesStockControl\\Views\\Page1.xaml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T17:00:54.45Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Page1.xaml",
-              "DocumentMoniker": "C:\\Users\\welin\\OneDrive\\\u00C1rea de Trabalho\\ISTEC\\2\u00BASemetre\\Programa\u00E7\u00E3o II\\SalesStockControl\\SalesStockControl\\Views\\Page1.xaml",
-              "RelativeDocumentMoniker": "SalesStockControl\\Views\\Page1.xaml",
-              "ToolTip": "C:\\Users\\welin\\OneDrive\\\u00C1rea de Trabalho\\ISTEC\\2\u00BASemetre\\Programa\u00E7\u00E3o II\\SalesStockControl\\SalesStockControl\\Views\\Page1.xaml",
-              "RelativeToolTip": "SalesStockControl\\Views\\Page1.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-22T16:36:52.306Z"
+              "WhenOpened": "2025-07-23T06:35:58.394Z"
             },
             {
               "$type": "Document",

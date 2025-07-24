@@ -12,20 +12,11 @@ namespace SalesStockControl.Models
         public enum TipoCinto
         {
             laser,
-            normal
+            normal,
+            preTensor
         }
-        private bool _preTensor;
-        private TipoCinto _tipo;
 
-        public bool PreTensor
-        {
-            get { return _preTensor; }
-            set
-            {
-                _preTensor = value;
-                string tem = _preTensor ? "Não" : "Sim";
-            }
-        }
+        private TipoCinto _tipo;
 
         public TipoCinto Tipo
         {
@@ -34,7 +25,7 @@ namespace SalesStockControl.Models
         }
         public Cintos(TipoCinto tipo) : base()
         {
-            PreTensor = true;
+            Tipo = tipo;
             switch (tipo)
             {
                 case TipoCinto.laser:
@@ -43,14 +34,15 @@ namespace SalesStockControl.Models
                 case TipoCinto.normal:
                     Preco = 70;
                     break;
+                case TipoCinto.preTensor:
+                    Preco = 50;
+                    break;
             }
-            Preco = Preco + (_preTensor ? 50 : 0);
         }
 
         public override string Get()
         {
             string saida = base.Get();
-            saida += $"Tem prétensor: {PreTensor}\n";
             saida += $"Preço:  {Preco} \n";
             return saida;
         }

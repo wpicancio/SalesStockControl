@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SalesStockControl.Models
 {
-    public  class Venda
+    public class Venda
     {
         private Guid _GuidId;
         private Cliente _cliente;
@@ -33,8 +33,8 @@ namespace SalesStockControl.Models
 
         public List<ProdutoVenda> ProdutoVenda
         {
-            get { return _produtoVenda ;}
-            set {  _produtoVenda = value; }
+            get { return _produtoVenda; }
+            set { _produtoVenda = value; }
         }
 
         public decimal Total
@@ -45,20 +45,42 @@ namespace SalesStockControl.Models
         public decimal TotalVenda()
         {
             decimal total = 0;
-            foreach(var produtoVenda in ProdutoVenda)
+            foreach (var produtoVenda in ProdutoVenda)
             {
                 total += produtoVenda.CalcularTotal();
             }
             return total;
         }
-        public Venda ()
+        public Venda()
         {
             _GuidId = Guid.NewGuid();
             Cliente = new Cliente();
             Date = DateTime.Now;
             Total = 0;
-            ProdutoVenda = new List<ProdutoVenda> ();
+            ProdutoVenda = new List<ProdutoVenda>();
         }
+        public string Get()
+        {
+            string info = $"Venda ID: {GuidId}\n";
+            info += $"Cliente: {Cliente?.Nome ?? "N/A"}\n";
+            info += $"Data: {Date:dd/MM/yyyy}\n";
+            info += $"Produtos:\n";
+            if (ProdutoVenda != null && ProdutoVenda.Any())
+            {
+                foreach (var item in ProdutoVenda)
+                {
+                    info += $"- {item.Produto}: € {item.Produto.Preco:N2}\n";
+                }
+            }
+            else
+            {
+                info += "- Nenhum produto registrado.\n";
+            }
 
+            info += $"Total: € {TotalVenda():N2}";
+
+            return info;
+
+        }
     }
 }
