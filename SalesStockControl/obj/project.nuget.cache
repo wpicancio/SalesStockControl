@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KhSLvKKoioE=",
+  "dgSpecHash": "Ls/3g8Es03E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\welin\\OneDrive\\Área de Trabalho\\ISTEC\\2ºSemetre\\Programação II\\SalesStockControl\\SalesStockControl\\SalesStockControl.csproj",
+  "projectFilePath": "C:\\Users\\welin\\OneDrive\\Área de Trabalho\\ISTEC\\1.2Semestre\\Programação II\\SalesStockControl\\SalesStockControl\\SalesStockControl.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\welin\\.nuget\\packages\\sqlite-net-pcl\\1.9.172\\sqlite-net-pcl.1.9.172.nupkg.sha512",
     "C:\\Users\\welin\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.1.2\\sqlitepclraw.bundle_green.2.1.2.nupkg.sha512",

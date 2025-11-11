@@ -5,9 +5,11 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SalesStockControl"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <!-- Frame que irá carregar Pages -->
-        <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden"/>
+        Title="Controle de Vendas e Estoque" Height="600" Width="900"
+        WindowStartupLocation="CenterScreen">
+
+    <Grid Background="#F0F0F0">
+        <ContentControl x:Name="MainContentHost"/>
     </Grid>
+
 </Window>
